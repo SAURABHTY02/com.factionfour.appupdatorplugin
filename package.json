@@ -13,7 +13,8 @@
   "bugs": "https://github.com/electron-userland/electron-builder/issues",
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
-    "out"
+    "out",
+    "index.js"
   ],
   "dependencies": {
     "@types/semver": "^7.3.6",

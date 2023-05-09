@@ -1,15 +1,16 @@
 {
-  "name": "electron-updater",
+  "name": "com.factionfour.printerplugin",
   "version": "4.3.1",
   "description": "Cross platform updater for electron applications",
   "main": "out/main.js",
-  "author": "Vladimir Krivosheev",
+  "author": "Dipole",
   "license": "MIT",
   "repository": "electron-userland/electron-builder",
   "bugs": "https://github.com/electron-userland/electron-builder/issues",
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
-    "out"
+    "out",
+    "index.js"
   ],
   "dependencies": {
     "@types/semver": "^7.1.0",

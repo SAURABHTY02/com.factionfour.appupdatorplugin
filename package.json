@@ -14,7 +14,10 @@
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
     "out",
-    "index.js"
+    "index.js",
+    "splash.css",
+    "splash.html",
+    "server.js"
   ],
   "dependencies": {
     "@types/semver": "^7.3.6",
